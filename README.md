@@ -10,6 +10,12 @@ This portfolio website is a comprehensive showcase of my work as a software engi
 - **Interactive Portfolio**: The portfolio section showcases recent projects with descriptions and external links to more detailed project pages.
 - **Contact Form**: A fully functional contact form that allows visitors to reach out directly through the website.
 
+## Technologies Used
+
+- **HTML5**: Structuring the content and layout of the website.
+- **CSS3**: Styling the website to create a visually appealing and responsive design.
+- **JavaScript**: Adding interactivity and dynamic features to the website.
+
 ## Getting Started
 
 To get a local copy up and running, follow these steps:
